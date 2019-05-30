@@ -1,0 +1,2 @@
+export const GIFT_CARD_NUMBER_LENGTH = 15;
+export const GIFT_CARD_CONTROL_CODE_LENGTH = 3;
